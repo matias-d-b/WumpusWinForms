@@ -22,7 +22,7 @@ El jugador gana si encuentra el oro y pierde si cae en un pozo o entra en la mis
     *   Casillas no exploradas se muestran con un punto (`.`).
     *   Casillas visitadas se marcan con una `x`.
     *   La posición del jugador se indica con una `J`.
-    *   Al finalizar el juego (victoria o derrota), se revelan las posiciones del Wumpus (`W`), Oro (`O`) y Pozos (`P`).
+    *   Al finalizar el juego (victoria o derrota), se revelan las posiciones del Wumpus (`W`), Oro (`O`) y Pozos (`P`). (cambio: uso de Emoji)
 *   **Pistas Sensoriales:** Se muestra un mensaje de estado indicando si el jugador siente "Hedor" o "Brisa" en su ubicación actual.
 *   **Condiciones de Fin de Juego:**
     *   **Victoria:** Al encontrar el oro.
@@ -83,12 +83,3 @@ El desarrollo de esta versión gráfica partió de una base de lógica de juego 
     *   Los mensajes de estado y los resultados del juego se muestran en el `Label` de estado.
 
 Este enfoque permitió reutilizar la lógica de juego ya probada y centrarse en la implementación de la capa de presentación visual.
-
-## Posibles Mejoras Futuras
-
-*   Añadir efectos de sonido.
-*   Permitir al jugador disparar una flecha para intentar matar al Wumpus.
-*   Implementar diferentes niveles de dificultad (tamaños de laberinto, número de peligros).
-*   Utilizar imágenes en lugar de texto para representar los elementos del juego en el tablero.
-*   Guardar y cargar partidas.
-*   Estadísticas del jugador.
