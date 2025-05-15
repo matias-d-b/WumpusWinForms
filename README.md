@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/d80f3546-862c-4af2-ad51-308f662f40ae)
+
+
 # Mundo del Wumpus - Versión Gráfica con Windows Forms
 
 Este proyecto es una adaptación del clásico juego "Mundo del Wumpus" a una interfaz gráfica de usuario (GUI) utilizando Windows Forms en C#. El objetivo principal es encontrar el oro dentro de un laberinto evitando caer en pozos y ser devorado por el temible Wumpus.
